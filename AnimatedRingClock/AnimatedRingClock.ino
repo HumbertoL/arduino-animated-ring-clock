@@ -10,7 +10,7 @@
 // Demo at different speeds
 // 1.0 = normal speed
 // 0.5 = double speedS
-#define ANIMATION_SCALE 0.5
+#define ANIMATION_SCALE 1.0
 
 
 // Parameter 1 = number of pixels in strip
