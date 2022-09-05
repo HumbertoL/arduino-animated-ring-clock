@@ -4,8 +4,10 @@
 #endif
 
 // Data pin on ring
-#define PIN 5
-#define NUM_PIXELS 60
+#define PIN 7
+
+// Set the number of pixels on your ring here
+#define NUM_PIXELS 24
 
 // Demo at different speeds
 // 1.0 = normal speed
